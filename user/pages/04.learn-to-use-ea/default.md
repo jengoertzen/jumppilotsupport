@@ -31,10 +31,11 @@ When they have access to the same information you do, customers have more trust 
 Products on Endless Aisle are organized into categories to make it easier to narrow down to only the relevant products.
 
 ##### Access Categories:
-* The home screen: The first view visible on Endless Aisle, also accessible via the “home” icon
-* “Shopping for” dropdown: On the “Browse by Category” view, tap the name of the category at the top left next to “Shopping for.”
-* Filter & Sort: On Browse by Category, Shop For Your Device, and Search, tap “Filter” at the top right of the screen. A panel will slide down, now tap “Category” next to “Filter by” on the second row to view all categories.
+* **The Home screen:** The first view visible on Endless Aisle, also accessible via the “home” icon.
+* **“Shopping for” dropdown:** On the “Browse by Category” view, tap the name of the category at the top left next to “Shopping for.” ![Category Dropdown](/images/category-dropdown.jpg "Category Dropdown")
+* **Filter & Sort:** On Browse by Category, Shop For Your Device, and Search, tap “Filter” at the top right of the screen. A panel will slide down, now tap “Category” next to “Filter by” on the second row to view all categories.
     * Note: This is most useful in the Search view because only categories that exist within the product set currently visible will appear here. Example: If you are in the “Cases & Protection” category, only the “Cases & Protection” category will be visible in the dropdown.
+![Filter Dropdown](/images/filter-dropdown.jpg "Filter Dropdown")
 
 ##### Most Useful For
 

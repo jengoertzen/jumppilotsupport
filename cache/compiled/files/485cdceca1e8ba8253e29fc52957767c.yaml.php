@@ -2,14 +2,14 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/home/vagrant/Code/jumppilotsupport/web/user/config/system.yaml',
-    'modified' => 1525103835,
+    'modified' => 1525119995,
     'data' => [
         'absolute_urls' => false,
         'home' => [
             'alias' => '/home'
         ],
         'pages' => [
-            'theme' => 'Learn2',
+            'theme' => 'learn2',
             'markdown' => [
                 'extra' => false
             ],

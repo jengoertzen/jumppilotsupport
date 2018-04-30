@@ -10,6 +10,7 @@ title: How to Complete Orders
 4. Tap “Next.”
 5. The order has now been sent to RQ.
 
+
 ##### To send multiple items under the same name
 1. Tap “Continue Shopping.”
 2. Find another item you would like to purchase.
@@ -25,10 +26,14 @@ _Endless Aisle will remember the name you have entered as long as the session is
 
 _If a customer sent multiple items from Endless Aisle you will see multiple orders with the same name._
 
+![Pending Orders](/images/pending-orders.jpg "Pending Orders")
+
 ##### Merge Endless Aisle Orders to Existing Sale
 1. Starting in active sale tab.
 2. Click “Orders” at the top (next to the Dropship button).
 3. Click the row that matches the name you’re looking for.
+
+![Merge Order Dropdown](/images/merge-order-dropdown.jpg "Merge Order Dropdown")
 
 _If the item is available via Dropship: You will be prompted to go through the Dropship flow before it appears on the active sale._
 

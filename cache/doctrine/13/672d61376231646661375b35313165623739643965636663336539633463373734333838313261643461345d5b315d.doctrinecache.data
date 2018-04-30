@@ -1,0 +1,43 @@
+1525717572
+a:2:{s:7:"content";s:2191:"<h5>Send an order from Endless Aisle to RQ</h5>
+<ol>
+<li>Find item you would like to purchase on Endless Aisle.</li>
+<li>Tap “Buy Now.”</li>
+<li>Enter your name.
+<ul>
+<li><em>Note: This name will not appear on the final invoice. It is only an identifier to help you find the order on RQ.</em></li>
+</ul></li>
+<li>Tap “Next.”</li>
+<li>The order has now been sent to RQ.</li>
+</ol>
+<p><img src="/images/buy-now-1.png?lightbox=600,400&resize=200,200" alt="Sample Image" /></p>
+<h5>To send multiple items under the same name</h5>
+<ol>
+<li>Tap “Continue Shopping.”</li>
+<li>Find another item you would like to purchase.</li>
+<li>Tap “Buy Now.”</li>
+<li>Your order has been sent to RQ with the name you previously typed in.</li>
+</ol>
+<p><em>Endless Aisle will remember the name you have entered as long as the session is active. To end a session tap “Checkout” or leave the iPad alone for X time until the session resets itself.</em></p>
+<h5>Find orders on RQ</h5>
+<ol>
+<li>Open “Sales” tab.</li>
+<li>Look at “Pending Orders” column.</li>
+<li>Locate the order, look for the name that was used on Endless Aisle.</li>
+</ol>
+<p><em>If a customer sent multiple items from Endless Aisle you will see multiple orders with the same name.</em></p>
+<p><img title="Pending Orders" alt="Pending Orders" src="/user/pages/images/pending-orders.jpg" /></p>
+<h5>Merge Endless Aisle Orders to Existing Sale</h5>
+<ol>
+<li>Starting in active sale tab.</li>
+<li>Click “Orders” at the top (next to the Dropship button).</li>
+<li>Click the row that matches the name you’re looking for.</li>
+</ol>
+<p><img title="Merge Order Dropdown" alt="Merge Order Dropdown" src="/user/pages/images/merge-order-dropdown.jpg" /></p>
+<p><em>If the item is available via Dropship: You will be prompted to go through the Dropship flow before it appears on the active sale.</em></p>
+<p><strong>If the customer sent multiple items:</strong></p>
+<ol>
+<li>Click one row and go through the Dropship flow.</li>
+<li>Once back on the active sale tab, click the Orders dropdown again.</li>
+</ol>
+<p><em>There should be one less row with the customer’s name on it every time you go through this flow.</em></p>";s:12:"content_meta";N;}

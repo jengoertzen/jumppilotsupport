@@ -4,7 +4,7 @@ home:
   alias: '/home'
 
 pages:
-  theme: Learn2
+  theme: learn2
   markdown:
     extra: false
   process:

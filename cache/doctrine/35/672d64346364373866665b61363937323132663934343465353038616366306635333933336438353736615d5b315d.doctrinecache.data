@@ -1,0 +1,48 @@
+1525724918
+a:2:{s:7:"content";s:1889:"<h4>Day-to-day Setup</h4>
+<h5>Start of day</h5>
+<ul>
+<li>Unlock iPads</li>
+<li>Check battery level
+<ul>
+<li>If battery level is less than 50%, lock iPad to turn off screen</li>
+<li>Unlock iPad to show Endless Aisle once battery level is above 50% (This may take a few hours)</li>
+</ul></li>
+<li>Ensure they’re plugged in</li>
+<li>Press home button to open Endless Aisle
+<ul>
+<li>If screen is blue, it is probably loading new content. </li>
+<li>Leave the screen unlocked, when it is done loading Endless Aisle will automatically launch.</li>
+</ul></li>
+</ul>
+<div class="notices yellow">
+<p>If the screen is blue for longer than 2 hours, email <a href="mailto:guyb@iqmetrix.com">Guy</a> or use the <a href="/contact">support contact form</a>.</p>
+</div>
+<h5>End of day</h5>
+<ul>
+<li>Lock iPad</li>
+<li>Ensure it’s plugged in</li>
+</ul>
+<h4>Credentials</h4>
+<h5>Apple ID</h5>
+<p>Password: iQmetrix123!</p>
+<p><em>If you need the email, please email <a href="mailto:jenniferg@iqmetrix.com">Jen</a>.</em></p>
+<h5>Passcodes</h5>
+<p>CLC: 586758</p>
+<p>Grasslands: 586700</p>
+<div class="notices blue">
+<p>These are credentials for the pilot devices. If these don't work, you may be on a different Endless Aisle device. Email <a href="mailto:jenniferg@iqmetrix.com">Jen</a> for help.</p>
+</div>
+<h4>Troubleshooting</h4>
+<h5>Open the Troubleshooting Menu</h5>
+<p>If you ever need to open the admin menu to send a log report to support: </p>
+<ol>
+<li>Tap all four corners once, in a counter-clockwise sequence, starting from the bottom left.</li>
+<li>A menu will appear on the screen over top of Endless Aisle.</li>
+</ol>
+<p><strong>Send an Error Report to Support</strong></p>
+<p>Support uses log reports to get more information about what’s happening on the device.</p>
+<ol>
+<li>Open the Troubleshooting Menu using the four-corner tap sequence</li>
+<li>Tap “send log report.”</li>
+</ol>";s:12:"content_meta";N;}
