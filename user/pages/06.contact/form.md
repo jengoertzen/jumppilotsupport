@@ -20,18 +20,6 @@ form:
           validate:
             required: true
 
-        - name: subject
-          label: Subject
-          type: select
-          size: short
-          options:
-              problem: Problem or Question
-              feedback: Feedback
-              request: Customization Request
-              other: Other          
-          validate:
-            required: true
-
         - name: message
           label: Message
           placeholder: Enter your message
