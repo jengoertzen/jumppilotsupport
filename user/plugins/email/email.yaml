@@ -1,8 +1,8 @@
 enabled: true
-from:
-from_name:
-to:
-to_name:
+from: jenniferg@iqmetrix.com
+from_name: jen
+to: jenniferg@iqmetrix.com
+to_name: jen
 mailer:
   engine: sendmail
   smtp:
