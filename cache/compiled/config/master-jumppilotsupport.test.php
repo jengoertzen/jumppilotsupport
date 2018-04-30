@@ -1,13 +1,13 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1525120118,
-    'checksum' => '08f6e5b701603b39a7c8c6c2fdd56a77',
+    'timestamp' => 1525127654,
+    'checksum' => 'e91dd2d3842076267f768ac76f0e60ef',
     'files' => [
         'user/config' => [
             'plugins/email' => [
                 'file' => 'user/config/plugins/email.yaml',
-                'modified' => 1525102188
+                'modified' => 1525127621
             ],
             'plugins/form' => [
                 'file' => 'user/config/plugins/form.yaml',
@@ -23,7 +23,7 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1525119995
+                'modified' => 1525127616
             ]
         ],
         'system/config' => [
@@ -110,10 +110,10 @@ return [
             ],
             'email' => [
                 'enabled' => true,
-                'from' => NULL,
-                'from_name' => NULL,
-                'to' => NULL,
-                'to_name' => NULL,
+                'from' => 'jenniferg@iqmetrix.com',
+                'from_name' => 'Jen',
+                'to' => 'jenniferg@iqmetrix.com',
+                'to_name' => 'Jen',
                 'mailer' => [
                     'engine' => 'sendmail',
                     'smtp' => [

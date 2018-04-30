@@ -2,13 +2,13 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/home/vagrant/Code/jumppilotsupport/web/user/config/plugins/email.yaml',
-    'modified' => 1525102188,
+    'modified' => 1525127621,
     'data' => [
         'enabled' => true,
-        'from' => NULL,
-        'from_name' => NULL,
-        'to' => NULL,
-        'to_name' => NULL,
+        'from' => 'jenniferg@iqmetrix.com',
+        'from_name' => 'Jen',
+        'to' => 'jenniferg@iqmetrix.com',
+        'to_name' => 'Jen',
         'mailer' => [
             'engine' => 'sendmail',
             'smtp' => [
