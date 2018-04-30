@@ -1,0 +1,32 @@
+1525711481
+a:2:{s:7:"content";s:1256:"<h4>What would you like to do?</h4>
+<h5><a href="/contact"><strong>Contact Guy and Jen</strong></a></h5>
+<h5><a href="/how-to-complete-orders">Complete an Endless Aisle order on RQ</a></h5>
+<h5><a href="/learn-to-use-ea">Learn how to use Endless Aisle</a></h5>
+<h5><a href="/ea-ideas">Get ideas on how to use Endless Aisle</a></h5>
+<h5><a href="/customize-ea">Customize Endless Aisle</a></h5>
+<p>———</p>
+<h4>Day-to-day Endless Aisle</h4>
+<h5>Start of day</h5>
+<ul>
+<li>Unlock iPads</li>
+<li>Check battery level
+<ul>
+<li>If battery level is less than 50%, lock iPad to turn off screen</li>
+<li>Unlock iPad to show Endless Aisle once battery level is above 50% (This may take a few hours)</li>
+</ul></li>
+<li>Ensure they’re plugged in</li>
+<li>Press home button to open Endless Aisle
+<ul>
+<li>If screen is blue, it is probably loading new content. </li>
+<li>Leave the screen unlocked, when it is done loading Endless Aisle will automatically launch.</li>
+</ul></li>
+</ul>
+<div class="notices yellow">
+<p>If the screen is blue for longer than 2 hours, email <a href="mailto:guyb@iqmetrix.com">Guy</a> or use the <a href="/contact">support contact form</a>.</p>
+</div>
+<h5>End of day</h5>
+<ul>
+<li>Lock iPad</li>
+<li>Ensure it’s plugged in</li>
+</ul>";s:12:"content_meta";N;}
