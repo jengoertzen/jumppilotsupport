@@ -1,15 +1,11 @@
 enabled: true
 from: jenniferg@iqmetrix.com
 from_name: Jen
-to: jenniferg@iqmetrix.com
+to: qkeast@gmail.com
 to_name: Jen
 mailer:
-  engine: smtp
-  smtp:
-    server: smtp.sendgrid.net
-    port: 587
-    encryption: tls
-    user: 'apikey'
-    password: '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'
+  engine: sendmail
+  sendmail:
+    bin: '/usr/sbin/sendmail -bs'
 content_type: text/html
 debug: false

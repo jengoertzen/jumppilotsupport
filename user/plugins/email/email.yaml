@@ -1,7 +1,7 @@
 enabled: true
 from: jenniferg@iqmetrix.com
 from_name: jen
-to: jenniferg@iqmetrix.com
+to: qkeast@gmail.com
 to_name: jen
 mailer:
   engine: sendmail
