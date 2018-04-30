@@ -3,9 +3,11 @@ title: Jump + Endless Aisle Support
 body_classes: title-center title-h1h2
 ---
 
-#### What would you like to do?
+#### Have feedback, a question, or a problem?
 
-##### [**Contact Guy and Jen**](/contact)
+##### Email Guy and Jen at pilot.support@iqmetrix.com
+
+#### What would you like to do?
 
 ##### [Get device and pilot information](/devices-info)
 
