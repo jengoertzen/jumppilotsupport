@@ -12,7 +12,5 @@ mailer:
     user: 'apikey'
     password: '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
 '
-  sendmail:
-    bin: '/usr/sbin/sendmail -bs'
 content_type: text/html
 debug: false
