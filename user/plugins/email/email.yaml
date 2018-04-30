@@ -10,7 +10,6 @@ mailer:
     port: 587
     encryption: tls
     user: 'apikey'
-    password: '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
-'
+    password: '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'
 content_type: text/html
 debug: false
