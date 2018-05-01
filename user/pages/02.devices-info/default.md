@@ -12,14 +12,23 @@ body_classes: title-center title-h1h2
     * Unlock iPad to show Endless Aisle once battery level is above 50% (This may take a few hours)
 * Ensure they’re plugged in
 * Press home button to open Endless Aisle
-    * If screen is blue, it is probably loading new content. 
-    * Leave the screen unlocked, when it is done loading Endless Aisle will automatically launch.
+    * _See below for troubleshooting different scenarios._
+
+**Screen is blue**
+Endless Aisle is downloading new content. Leave the screen unlocked, Endless Aisle will launch automatically when it's done loading.
+
+**Endless Aisle appears frozen**
+Turn the iPad off and on again. You can do this by pressing and holding the lock and home button at the same time to turn it off, then again to turn it on.
+When the iPad turns on, unlock it, and Endless Aisle will reload. You will probably see a blue loading screen for a little bit while it downloads new content. Endless Aisle will automatically launch when it's done loading.
 
 ! If the screen is blue for longer than 2 hours, email [Guy](mailto:guyb@iqmetrix.com) or use the [support contact form](/contact).
 
 ##### End of day
-* Lock iPad
-* Ensure it’s plugged in
+* Ensure all iPads are plugged in
+* Lock and unlock iPad to check battery level
+    * If battery level is less than 50%, lock iPad to turn off screen
+    * Unlock iPad the next morning
+
 
 #### Credentials
 
