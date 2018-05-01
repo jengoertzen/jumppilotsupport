@@ -78,3 +78,17 @@ Search can be the quickest path when you want to find a specific product or bran
 4. View products that match that keyword
 
 _Note: Search is still a work in progress. The development of Search depends on how you use it. If it’s not working how you expect it to, [let us know](/contact)!_
+
+### Product Information
+
+#### Product Availability
+
+The labels below product names on the catalog view tell you how (and if) a product is available.
+
+There can be three labels:
+1. **In Store:** Products with this label are in currently stock in the store where Endless Aisle is located.
+2. **Shipping Available:** These products are available by Dropship. On the product view it will say "Not in Store – Free Shipping Available."
+    * When you send these products to RQ, you will be prompted to go through the Dropship wizard when adding them to an order.
+3. **Out of Stock:** This label appears on products that are out of stock—these products may have originally been available in-store or Dropship.
+    * _Note: We received feedback that it would be helpful to know whether an "out of stock" product was in-store or Dropship. We are looking into adding a label for this._
+
