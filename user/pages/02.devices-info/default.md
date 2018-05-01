@@ -14,10 +14,10 @@ body_classes: title-center title-h1h2
 * Press home button to open Endless Aisle
     * _See below for troubleshooting different scenarios._
 
-**Screen is blue**
+**The screen is blue:**
 Endless Aisle is downloading new content. Leave the screen unlocked, Endless Aisle will launch automatically when it's done loading.
 
-**Endless Aisle appears frozen**
+**Endless Aisle appears frozen:**
 Turn the iPad off and on again. You can do this by pressing and holding the lock and home button at the same time to turn it off, then again to turn it on.
 When the iPad turns on, unlock it, and Endless Aisle will reload. You will probably see a blue loading screen for a little bit while it downloads new content. Endless Aisle will automatically launch when it's done loading.
 
