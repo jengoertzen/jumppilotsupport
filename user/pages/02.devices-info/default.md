@@ -32,15 +32,9 @@ When the iPad turns on, unlock it, and Endless Aisle will reload. You will proba
 
 #### Credentials
 
-##### Apple ID
-Password: iQmetrix123!
+You can find the Apple ID and passcode information in a TBD location. We are setting this up right now and will update the website as soon as it's decided.
 
-_If you need the email, please email [Jen](mailto:jenniferg@iqmetrix.com)._
-
-##### Passcodes
-CLC: 586758
-
-Grasslands: 586700
+_If you're unable to find them, please email [Jen](mailto:jenniferg@iqmetrix.com)._
 
 !!! These are credentials for the pilot devices. If these don't work, you may be on a different Endless Aisle device. Email [Jen](mailto:jenniferg@iqmetrix.com) for help.
 
