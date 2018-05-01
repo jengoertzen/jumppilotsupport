@@ -92,3 +92,4 @@ There can be three labels:
 3. **Out of Stock:** This label appears on products that are out of stock—these products may have originally been available in-store or Dropship.
     * _Note: We received feedback that it would be helpful to know whether an "out of stock" product was in-store or Dropship. We are looking into adding a label for this._
 
+![Product Availability Labels](/images/product-availability.jpg "Product Availability Labels")
