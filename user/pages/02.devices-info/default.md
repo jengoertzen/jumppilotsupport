@@ -21,7 +21,7 @@ Endless Aisle is downloading new content. Leave the screen unlocked, Endless Ais
 Turn the iPad off and on again. You can do this by pressing and holding the lock and home button at the same time to turn it off, then again to turn it on.
 When the iPad turns on, unlock it, and Endless Aisle will reload. You will probably see a blue loading screen for a little bit while it downloads new content. Endless Aisle will automatically launch when it's done loading.
 
-! If the screen is blue for longer than 2 hours, email [Guy](mailto:guyb@iqmetrix.com) or use the [support contact form](/contact).
+! If the screen is blue for longer than 2 hours, email [Guy](mailto:guyb@iqmetrix.com).
 
 ##### End of day
 * Ensure all iPads are plugged in
