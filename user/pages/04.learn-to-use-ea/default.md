@@ -77,7 +77,7 @@ Search can be the quickest path when you want to find a specific product or bran
 3. Tap a “suggestion” that matches what you have in mind
 4. View products that match that keyword
 
-_Note: Search is still a work in progress. The development of Search depends on how you use it. If it’s not working how you expect it to, [let us know](/contact)!_
+_Note: Search is still a work in progress. The development of Search depends on how you use it. If it’s not working how you expect it to, [let us know](mailto:pilot.support@iqmetrix.com)!_
 
 ### Product Information
 
