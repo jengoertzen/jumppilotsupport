@@ -42,3 +42,15 @@ _If the item is available via Dropship: You will be prompted to go through the D
 2. Once back on the active sale tab, click the Orders dropdown again.
 
 _There should be one less row with the customer’s name on it every time you go through this flow._
+
+#### Troubleshooting
+
+##### I don't see the "Orders" dropdown on the new sale tab.
+
+**There is a bug in RQ that we are in the middle of fixing (I will keep you posted!).**
+
+**What happens:** You don't see the Orders dropdown in a new sale, even after a customer sends an item from Endless Aisle to RQ. The item appears in Pending Orders, but you can't merge it to the current invoice.
+
+**Why:** If there are no orders in Pending Orders before you open a new sale, then the dropdown will not be there. Since it's not there then, it doesn't appear—even when orders do start coming in.
+
+**What you can do:** At the beginning of the day, send an order from Endless Aisle to RQ called "test" (or anything else you can remember). Then leave that order in Pending Orders. Now if you create a new sale, there will be an order, so the "orders" dropdown will be visible. Any orders that come in from Endless Aisle will now appear in that dropdown.
