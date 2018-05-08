@@ -1,5 +1,5 @@
 ---
-title: Jump + Endless Aisle Support
+title: Jump & Endless Aisle Support
 body_classes: title-center title-h1h2
 ---
 
