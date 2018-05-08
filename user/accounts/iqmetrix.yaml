@@ -1,0 +1,9 @@
+email: jen.goertzen@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+fullname: 'Jen Goertzen'
+title: Boss
+state: enabled
+hashed_password: $2y$10$pnpyFNQ6cf9K5rtv9YmlB.f7dp5gz6MXDj69ek3ZUnsjy6i/sdGIe
